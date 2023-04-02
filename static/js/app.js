@@ -54,8 +54,6 @@ function buildMetadata(sample) {
   });
 }
 
-// Bar graph Del 1
-// localhost:8000 for testing
 
 // 1. Create the buildCharts function.
 function buildCharts(sample) {
@@ -113,7 +111,7 @@ function buildCharts(sample) {
       marker: {
         size: sample_values,
         color: otu_ids,
-        colorscale: 'Earth'
+        colorscale: 'Jet'
       },
       type: 'scatter',
       hovertext: otu_labels
