@@ -1,5 +1,8 @@
 # belly-button-challenge
 
+[Final Belly Button Challenge .js file](https://github.com/marthagriggs9/belly-button-challenge/blob/main/static/js/app.js)
+
+[My Belly Button Biodiversity Static Page](https://marthagriggs9.github.io/belly-button-challenge/)
 
 ## Background
 
@@ -44,3 +47,5 @@ The dataset reveales that a small handful of microbial species (also called oper
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your respository has regular commits and thorough README.md file. 
 
 [My Belly Button Biodiversity Static Page](https://marthagriggs9.github.io/belly-button-challenge/)
+
+Files located in the [Practice File](https://github.com/marthagriggs9/belly-button-challenge/tree/main/Practice%20codes) were collaborative codes worked on with classmates with "hints" given by TA via Slack.
